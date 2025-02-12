@@ -8,7 +8,15 @@ namespace _0101_ПР6_4
         {
             
             Console.Write("Введите порядок матрицы: ");
-            int N = Convert.ToInt32(Console.ReadLine());
+            int N;
+            while (true)
+            {
+                if (int.TryParse(Console.ReadLine(), out N) && N > 0) // проверка n
+                {
+                    break;
+                }
+                Console.Write("Ошибка: некоррекнтый ввод. Введите ещё раз: ");
+            }
             int[,] arr = new int[N, N];
             int[] sum_str_arr = new int[N];  // массив для суммы каждой строки
 
