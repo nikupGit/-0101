@@ -1,0 +1,15 @@
+C:\Users\nikup\OneDrive\Desktop\pg\VS\0101\0101_ПР6_1\bin\Debug\net8.0\0101_ПР6_1.exe
+C:\Users\nikup\OneDrive\Desktop\pg\VS\0101\0101_ПР6_1\bin\Debug\net8.0\0101_ПР6_1.deps.json
+C:\Users\nikup\OneDrive\Desktop\pg\VS\0101\0101_ПР6_1\bin\Debug\net8.0\0101_ПР6_1.runtimeconfig.json
+C:\Users\nikup\OneDrive\Desktop\pg\VS\0101\0101_ПР6_1\bin\Debug\net8.0\0101_ПР6_1.dll
+C:\Users\nikup\OneDrive\Desktop\pg\VS\0101\0101_ПР6_1\bin\Debug\net8.0\0101_ПР6_1.pdb
+C:\Users\nikup\OneDrive\Desktop\pg\VS\0101\0101_ПР6_1\obj\Debug\net8.0\0101_ПР6_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikup\OneDrive\Desktop\pg\VS\0101\0101_ПР6_1\obj\Debug\net8.0\0101_ПР6_1.AssemblyInfoInputs.cache
+C:\Users\nikup\OneDrive\Desktop\pg\VS\0101\0101_ПР6_1\obj\Debug\net8.0\0101_ПР6_1.AssemblyInfo.cs
+C:\Users\nikup\OneDrive\Desktop\pg\VS\0101\0101_ПР6_1\obj\Debug\net8.0\0101_ПР6_1.csproj.CoreCompileInputs.cache
+C:\Users\nikup\OneDrive\Desktop\pg\VS\0101\0101_ПР6_1\obj\Debug\net8.0\0101_ПР6_1.sourcelink.json
+C:\Users\nikup\OneDrive\Desktop\pg\VS\0101\0101_ПР6_1\obj\Debug\net8.0\0101_ПР6_1.dll
+C:\Users\nikup\OneDrive\Desktop\pg\VS\0101\0101_ПР6_1\obj\Debug\net8.0\refint\0101_ПР6_1.dll
+C:\Users\nikup\OneDrive\Desktop\pg\VS\0101\0101_ПР6_1\obj\Debug\net8.0\0101_ПР6_1.pdb
+C:\Users\nikup\OneDrive\Desktop\pg\VS\0101\0101_ПР6_1\obj\Debug\net8.0\0101_ПР6_1.genruntimeconfig.cache
+C:\Users\nikup\OneDrive\Desktop\pg\VS\0101\0101_ПР6_1\obj\Debug\net8.0\ref\0101_ПР6_1.dll

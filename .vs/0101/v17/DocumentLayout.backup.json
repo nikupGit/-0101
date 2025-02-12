@@ -3,12 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\0101\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1C14B6A6-C82A-4297-AAF8-0AA1FD580D20}|0101 \u041F\u04201_1_24\\0101 \u041F\u04201_1_24.csproj|c:\\users\\nikup\\onedrive\\desktop\\pg\\vs\\0101\\0101 \u043F\u04401_1_24\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C14B6A6-C82A-4297-AAF8-0AA1FD580D20}|0101 \u041F\u04201_1_24\\0101 \u041F\u04201_1_24.csproj|solutionrelative:0101 \u043F\u04401_1_24\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D824874C-5781-4809-ADFD-1F147F593F2E}|0101_\u041F\u04201_2_24\\0101_\u041F\u04201_2_24.csproj|c:\\users\\nikup\\onedrive\\desktop\\pg\\vs\\0101\\0101_\u043F\u04401_2_24\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D824874C-5781-4809-ADFD-1F147F593F2E}|0101_\u041F\u04201_2_24\\0101_\u041F\u04201_2_24.csproj|solutionrelative:0101_\u043F\u04401_2_24\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A301E364-E1FC-4CA2-AB28-8D441BC95388}|\u041F\u04201_2_24\\\u041F\u04201_2_24.csproj|c:\\users\\nikup\\onedrive\\desktop\\pg\\vs\\0101\\\u043F\u04401_2_24\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A301E364-E1FC-4CA2-AB28-8D441BC95388}|\u041F\u04201_2_24\\\u041F\u04201_2_24.csproj|solutionrelative:\u043F\u04401_2_24\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{77C0727E-6FB5-402F-9655-7FA187CA71E6}|0101_\u041F\u04206_1\\0101_\u041F\u04206_1.csproj|c:\\users\\nikup\\onedrive\\desktop\\pg\\vs\\0101\\0101_\u043F\u04406_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C0727E-6FB5-402F-9655-7FA187CA71E6}|0101_\u041F\u04206_1\\0101_\u041F\u04206_1.csproj|solutionrelative:0101_\u043F\u04406_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D03DBF21-BCDE-454E-99AC-9804AB792E1B}|0101_\u041F\u04206_5\\0101_\u041F\u04206_5.csproj|c:\\users\\nikup\\onedrive\\desktop\\pg\\vs\\0101\\0101_\u043F\u04406_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D03DBF21-BCDE-454E-99AC-9804AB792E1B}|0101_\u041F\u04206_5\\0101_\u041F\u04206_5.csproj|solutionrelative:0101_\u043F\u04406_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8809225-2340-4599-BB82-D99DF2C4EF78}|0101_\u041F\u04206_3\\0101_\u041F\u04206_3.csproj|c:\\users\\nikup\\onedrive\\desktop\\pg\\vs\\0101\\0101_\u043F\u04406_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8809225-2340-4599-BB82-D99DF2C4EF78}|0101_\u041F\u04206_3\\0101_\u041F\u04206_3.csproj|solutionrelative:0101_\u043F\u04406_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D53523A-1026-4742-A125-07988FF0C51A}|0101_\u041F\u04206_4\\0101_\u041F\u04206_4.csproj|c:\\users\\nikup\\onedrive\\desktop\\pg\\vs\\0101\\0101_\u043F\u04406_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D53523A-1026-4742-A125-07988FF0C51A}|0101_\u041F\u04206_4\\0101_\u041F\u04206_4.csproj|solutionrelative:0101_\u043F\u04406_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FAA4D77-1A9B-4758-BAEE-A3D66E700E02}|0101_\u041F\u04206_2\\0101_\u041F\u04206_2.csproj|c:\\users\\nikup\\onedrive\\desktop\\pg\\vs\\0101\\0101_\u043F\u04406_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FAA4D77-1A9B-4758-BAEE-A3D66E700E02}|0101_\u041F\u04206_2\\0101_\u041F\u04206_2.csproj|solutionrelative:0101_\u043F\u04406_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D03DBF21-BCDE-454E-99AC-9804AB792E1B}|0101_\u041F\u04206_5\\0101_\u041F\u04206_5.csproj|c:\\users\\nikup\\onedrive\\desktop\\pg\\vs\\0101\\0101_\u043F\u04406_5\\0101_\u043F\u04406_5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D03DBF21-BCDE-454E-99AC-9804AB792E1B}|0101_\u041F\u04206_5\\0101_\u041F\u04206_5.csproj|solutionrelative:0101_\u043F\u04406_5\\0101_\u043F\u04406_5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C14B6A6-C82A-4297-AAF8-0AA1FD580D20}|0101 \u041F\u04201_1_24\\0101_\u041F\u04201_1_24.csproj|c:\\users\\nikup\\onedrive\\desktop\\pg\\vs\\0101\\0101 \u043F\u04401_1_24\\0101_\u043F\u04401_1_24.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1C14B6A6-C82A-4297-AAF8-0AA1FD580D20}|0101 \u041F\u04201_1_24\\0101_\u041F\u04201_1_24.csproj|solutionrelative:0101 \u043F\u04401_1_24\\0101_\u043F\u04401_1_24.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C14B6A6-C82A-4297-AAF8-0AA1FD580D20}|0101 \u041F\u04201_1_24\\0101_\u041F\u04201_1_24.csproj|c:\\users\\nikup\\onedrive\\desktop\\pg\\vs\\0101\\0101 \u043F\u04401_1_24\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C14B6A6-C82A-4297-AAF8-0AA1FD580D20}|0101 \u041F\u04201_1_24\\0101_\u041F\u04201_1_24.csproj|solutionrelative:0101 \u043F\u04401_1_24\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,29 +54,119 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\0101\\\u041F\u04201_2_24\\Program.cs",
-              "RelativeDocumentMoniker": "\u041F\u04201_2_24\\Program.cs",
-              "ToolTip": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\0101\\\u041F\u04201_2_24\\Program.cs",
-              "RelativeToolTip": "\u041F\u04201_2_24\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\0101\\0101_\u041F\u04201_2_24\\Program.cs",
+              "RelativeDocumentMoniker": "0101_\u041F\u04201_2_24\\Program.cs",
+              "ToolTip": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\0101\\0101_\u041F\u04201_2_24\\Program.cs",
+              "RelativeToolTip": "0101_\u041F\u04201_2_24\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T20:42:05.573Z",
+              "WhenOpened": "2025-02-12T15:15:03.247Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
+              "Title": "0101_\u041F\u04206_5",
+              "DocumentMoniker": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\0101\\0101_\u041F\u04206_5\\0101_\u041F\u04206_5.csproj",
+              "RelativeDocumentMoniker": "0101_\u041F\u04206_5\\0101_\u041F\u04206_5.csproj",
+              "ToolTip": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\0101\\0101_\u041F\u04206_5\\0101_\u041F\u04206_5.csproj",
+              "RelativeToolTip": "0101_\u041F\u04206_5\\0101_\u041F\u04206_5.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-12T15:04:11.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\0101\\0101_\u041F\u04206_5\\Program.cs",
+              "RelativeDocumentMoniker": "0101_\u041F\u04206_5\\Program.cs",
+              "ToolTip": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\0101\\0101_\u041F\u04206_5\\Program.cs",
+              "RelativeToolTip": "0101_\u041F\u04206_5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T14:46:40.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\0101\\0101_\u041F\u04206_4\\Program.cs",
+              "RelativeDocumentMoniker": "0101_\u041F\u04206_4\\Program.cs",
+              "ToolTip": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\0101\\0101_\u041F\u04206_4\\Program.cs",
+              "RelativeToolTip": "0101_\u041F\u04206_4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T01:06:33.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\0101\\0101_\u041F\u04206_3\\Program.cs",
+              "RelativeDocumentMoniker": "0101_\u041F\u04206_3\\Program.cs",
+              "ToolTip": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\0101\\0101_\u041F\u04206_3\\Program.cs",
+              "RelativeToolTip": "0101_\u041F\u04206_3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T00:32:57.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\0101\\0101_\u041F\u04206_2\\Program.cs",
+              "RelativeDocumentMoniker": "0101_\u041F\u04206_2\\Program.cs",
+              "ToolTip": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\0101\\0101_\u041F\u04206_2\\Program.cs",
+              "RelativeToolTip": "0101_\u041F\u04206_2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T23:54:56.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\0101\\0101_\u041F\u04206_1\\Program.cs",
+              "RelativeDocumentMoniker": "0101_\u041F\u04206_1\\Program.cs",
+              "ToolTip": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\0101\\0101_\u041F\u04206_1\\Program.cs",
+              "RelativeToolTip": "0101_\u041F\u04206_1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T23:45:34.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "0101_\u041F\u04201_1_24.csproj",
+              "DocumentMoniker": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\0101\\0101 \u041F\u04201_1_24\\0101_\u041F\u04201_1_24.csproj",
+              "RelativeDocumentMoniker": "0101 \u041F\u04201_1_24\\0101_\u041F\u04201_1_24.csproj",
+              "ToolTip": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\0101\\0101 \u041F\u04201_1_24\\0101_\u041F\u04201_1_24.csproj",
+              "RelativeToolTip": "0101 \u041F\u04201_1_24\\0101_\u041F\u04201_1_24.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-11T23:43:50.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\0101\\0101 \u041F\u04201_1_24\\Program.cs",
               "RelativeDocumentMoniker": "0101 \u041F\u04201_1_24\\Program.cs",
               "ToolTip": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\0101\\0101 \u041F\u04201_1_24\\Program.cs",
               "RelativeToolTip": "0101 \u041F\u04201_1_24\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T20:39:20.057Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-11T20:39:20.057Z"
             }
           ]
         }

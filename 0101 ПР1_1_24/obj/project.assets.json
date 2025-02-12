@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\0101\\0101 ПР1_1_24\\0101 ПР1_1_24.csproj",
-      "projectName": "0101 ПР1_1_24",
-      "projectPath": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\0101\\0101 ПР1_1_24\\0101 ПР1_1_24.csproj",
+      "projectUniqueName": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\0101\\0101 ПР1_1_24\\0101_ПР1_1_24.csproj",
+      "projectName": "0101_ПР1_1_24",
+      "projectPath": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\0101\\0101 ПР1_1_24\\0101_ПР1_1_24.csproj",
       "packagesPath": "C:\\Users\\nikup\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\nikup\\OneDrive\\Desktop\\pg\\VS\\0101\\0101 ПР1_1_24\\obj\\",
       "projectStyle": "PackageReference",
