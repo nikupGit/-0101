@@ -1,0 +1,205 @@
+//В заданном одномерном массиве найти минимальный элемент и его порядковый номер.
+namespace _0101_ПР6_1
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {   
+            int find_min = int.MaxValue; // для поиска минимального 
+            int index = 0; // индекс минимального 
+            int[] ints = { 9, 8, 7, 4, 5, 6, 7, 8, 9 };
+
+            // цикл поиска
+            for (int i = 0; i < ints.Length; i++)
+            {
+                if (ints[i] < find_min)
+                {
+                    find_min = ints[i];
+                    index = i + 1; // счет от 1
+                }
+            }
+            Console.WriteLine($"Минимальный элемент {find_min} под номером {index}");
+        }
+    }
+}
+// В заданном одномерном массиве найти сумму,
+// произведение и количество отрицательных элементов стоящих на нечетных местах.
+// Ввод массива организовать с помощью счетчика случайных чисел.
+
+namespace _0101_ПР6_2
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            const int size = 10;
+            int[] arr = new int[size];
+
+            Random rnd = new Random(1); // 1 = seed
+            for (int i = 0; i < size; i++) arr[i] = rnd.Next(-100, 100);
+
+            Console.WriteLine("Введенный массив: ");
+            foreach (int item in arr)
+            {
+                Console.Write(item + " "); // вывод массива
+            }
+            // сумма, произведение, количество негативных
+            int sum = 0, mult = 1, numb_neg = 0;
+            for (int i = 0; i < size; i++)
+            {
+                if (i % 2 == 0)
+                {
+                    // необходимые операции
+                    sum += arr[i];
+                    mult *= arr[i];
+                    if (arr[i] < 0) numb_neg++;         
+                }
+            }
+            Console.WriteLine("Элементы на нечетных местах.");
+            Console.WriteLine("Их сумма: " + sum);
+            Console.WriteLine("Их произведение: " + mult);
+            Console.WriteLine("Количество отрицательных элементов: " + numb_neg);
+        }
+    }
+}
+// Сформировать массив 8*8, «Шахматная доска»,
+// где черный квадрат – еденица, а белый квадрат – ноль.
+// Полученную матрицу вывести в явном виде.
+
+namespace _0101_ПР6_3
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            const int size = 8;
+            int[,] chess_board = new int[size, size];
+
+            int k = 0;
+            for (int i = 0; i < size; i++)
+            {
+                k++; // счетчик ряда
+                for (int j = 0; j < size; j++)
+                {
+                    if (k % 2 == 0) // четные ряды
+                    {
+                        if (j % 2 == 0) chess_board[i, j] = 1; // четные клетки
+                        else chess_board[i, j] = 0; // нечетные
+                    }
+                    else // нечетные ряды
+                    {
+                        if (j % 2 == 0) chess_board[i, j] = 0; // наоборот
+                        else chess_board[i, j] = 1;
+                    }
+                }
+            }
+            Console.WriteLine("Массив в виде шахматной доски: ");
+            for (int i = 0; i < size;i++)
+            {
+                for (int j = 0; j < size;j++)
+                {
+                    Console.Write(" " + chess_board[i,j]);
+                }
+                Console.WriteLine();
+            }
+        }
+    }
+}
+// В заданном массиве N*N найти сумму элементов в каждой строке.
+
+namespace _0101_ПР6_4
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            
+            Console.Write("Введите порядок матрицы: ");
+            int N;
+            while (true)
+            {
+                if (int.TryParse(Console.ReadLine(), out N) && N > 0) // проверка n
+                {
+                    break;
+                }
+                Console.Write("Ошибка: некоррекнтый ввод. Введите ещё раз: ");
+            }
+            int[,] arr = new int[N, N];
+            int[] sum_str_arr = new int[N];  // массив для суммы каждой строки
+
+            Random rnd = new Random(); // без сида
+            Console.WriteLine("Матрица N*N: ");
+            for (int i = 0; i < N; i++)
+            {
+                for (int j = 0; j < N; j++)
+                {
+                    arr[i, j] = rnd.Next(-10, 10);
+                    Console.Write(arr[i, j] + "\t");
+                    sum_str_arr[i] += arr[i, j]; // счет суммы i строки
+                }
+                Console.WriteLine();
+            }
+            Console.WriteLine("\nМассив суммы каждой строки матрицы: ");
+            foreach (int sum in sum_str_arr)
+            {
+                Console.Write(sum + "\t");
+            }
+        }
+    }
+}
+// В заданном массиве 5*5 найти сумму и произведение элементов
+// в заданной области, все остальные элементы обнулить.
+// Исходную и полученную матрицу вывести в явном виде
+
+namespace _0101_ПР6_5
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            const int size = 5;
+            int[,] arr = new int[size, size];
+
+            Random rnd = new Random();
+            Console.WriteLine("Изначальный массив 5*5: ");
+            for (int i = 0; i < size; i++)
+            {
+                for (int j = 0; j < size; j++)
+                {
+                    arr[i, j] = rnd.Next(1, 10);
+                    Console.Write(arr[i, j] + " ");
+                }
+                Console.WriteLine();
+            }
+
+            int sum_in = 0;
+            int mult_in = 1;
+            for (int i = 0; i < size; i++)
+            {
+                for(int j = 0; j < size; j++)
+                {
+                    if (i > j && i + j < size - 1) // область
+                    {
+                        sum_in += arr[i, j];
+                        mult_in *= arr[i, j];
+                    }
+                    else arr[i, j] = 0;
+                }
+            }
+            Console.WriteLine("\nОбновленный массив: ");
+            for (int i = 0; i < size; i++)
+            {
+                for (int j = 0; j < size; j++)
+                {
+                    Console.Write(arr[i, j] + " ");
+                }
+                Console.WriteLine();
+            }
+            Console.WriteLine($"Сумма элементов в области: {sum_in}");
+            Console.WriteLine($"Произведение элементов в области: {mult_in}");
+        }
+    }
+}
+
+
+ 
